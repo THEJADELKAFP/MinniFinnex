@@ -1,1 +1,1 @@
-Desarrollador Jr en Flask, HTML, CSS, JS y Python 
+yes
